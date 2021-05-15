@@ -1,25 +1,25 @@
-Litecoin Core version 0.16.2 is now available from:
+bechorcoin Core version 0.16.2 is now available from:
 
-  <https://download.litecoin.org/litecoin-0.16.2/>
+  <https://download.bechorcoin.org/bechorcoin-0.16.2/>
 
 This is a new minor version release, with various bugfixes
 as well as updated translations.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/litecoin-project/litecoin/issues>
+  <https://github.com/bechorcoin-project/bechorcoin/issues>
 
 To receive security and update notifications, please subscribe to:
 
-  <https://groups.google.com/forum/#!forum/litecoin-dev>
+  <https://groups.google.com/forum/#!forum/bechorcoin-dev>
 
 How to Upgrade
 ==============
 
 If you are running an older version, shut it down. Wait until it has completely
 shut down (which might take a few minutes for older versions), then run the
-installer (on Windows) or just copy over `/Applications/Litecoin-Qt` (on Mac)
-or `litecoind`/`litecoin-qt` (on Linux).
+installer (on Windows) or just copy over `/Applications/bechorcoin-Qt` (on Mac)
+or `bechorcoind`/`bechorcoin-qt` (on Linux).
 
 The first time you run version 0.15.0 or newer, your chainstate database will be converted to a
 new format, which will take anywhere from a few minutes to half an hour,
@@ -40,10 +40,10 @@ wallets that were created with older versions are not affected by this.
 Compatibility
 ==============
 
-Litecoin Core is extensively tested on multiple operating systems using
+bechorcoin Core is extensively tested on multiple operating systems using
 the Linux kernel, macOS 10.8+, and Windows Vista and later. Windows XP is not supported.
 
-Litecoin Core should also work on most other Unix-like systems but is not
+bechorcoin Core should also work on most other Unix-like systems but is not
 frequently tested on them.
 
 Notable changes
