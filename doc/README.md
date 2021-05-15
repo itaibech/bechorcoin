@@ -1,41 +1,41 @@
-bechorcoin Core
+Litecoin Core
 =============
 
 Setup
 ---------------------
-bechorcoin Core is the original bechorcoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of bechorcoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+Litecoin Core is the original Litecoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Litecoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download bechorcoin Core, visit [bechorcoin.org](https://bechorcoin.org/).
+To download Litecoin Core, visit [litecoin.org](https://litecoin.org/).
 
 Running
 ---------------------
-The following are some helpful notes on how to run bechorcoin Core on your native platform.
+The following are some helpful notes on how to run Litecoin Core on your native platform.
 
 ### Unix
 
 Unpack the files into a directory and run:
 
-- `bin/bechorcoin-qt` (GUI) or
-- `bin/bechorcoind` (headless)
+- `bin/litecoin-qt` (GUI) or
+- `bin/litecoind` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run bechorcoin-qt.exe.
+Unpack the files into a directory, and then run litecoin-qt.exe.
 
 ### macOS
 
-Drag bechorcoin Core to your applications folder, and then run bechorcoin Core.
+Drag Litecoin Core to your applications folder, and then run Litecoin Core.
 
 ### Need Help?
 
-* See the documentation at the [bechorcoin Wiki](https://bechorcoin.info/)
+* See the documentation at the [Litecoin Wiki](https://litecoin.info/)
 for help and more information.
-* Ask for help on [#bechorcoin](http://webchat.freenode.net?channels=bechorcoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=bechorcoin).
-* Ask for help on the [bechorcoinTalk](https://bechorcointalk.io/) forums, in the [Technical Support section](https://bechorcointalk.io/c/technical-support).
+* Ask for help on [#litecoin](http://webchat.freenode.net?channels=litecoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=litecoin).
+* Ask for help on the [LitecoinTalk](https://litecointalk.io/) forums, in the [Technical Support section](https://litecointalk.io/c/technical-support).
 
 Building
 ---------------------
-The following are developer notes on how to build bechorcoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build Litecoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [Dependencies](dependencies.md)
 - [macOS Build Notes](build-osx.md)
@@ -48,7 +48,7 @@ The following are developer notes on how to build bechorcoin Core on your native
 
 Development
 ---------------------
-The bechorcoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The Litecoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Productivity Notes](productivity.md)
@@ -64,8 +64,8 @@ The bechorcoin repo's [root README](/README.md) contains relevant information on
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [bechorcoinTalk](https://bechorcointalk.io/) forums.
-* Discuss general bechorcoin development on #bechorcoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=bechorcoin-dev.
+* Discuss on the [LitecoinTalk](https://litecointalk.io/) forums.
+* Discuss general Litecoin development on #litecoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=litecoin-dev.
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

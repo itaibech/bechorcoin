@@ -1,14 +1,14 @@
 *.tar.gz
 
 *.exe
-src/bechorcoin
-src/bechorcoind
-src/bechorcoin-cli
-src/bechorcoin-tx
-src/bechorcoin-wallet
-src/test/test_bechorcoin
-src/test/test_bechorcoin_fuzzy
-src/qt/test/test_bechorcoin-qt
+src/litecoin
+src/litecoind
+src/litecoin-cli
+src/litecoin-tx
+src/litecoin-wallet
+src/test/test_litecoin
+src/test/test_litecoin_fuzzy
+src/qt/test/test_litecoin-qt
 
 # autoreconf
 Makefile.in
@@ -83,13 +83,13 @@ src/qt/bitcoin-qt.includes
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-bechorcoin-qt
-bechorcoin-Qt.app
+litecoin-qt
+litecoin-Qt.app
 background.tiff*
 
 # Unit-tests
 Makefile.test
-bechorcoin-qt_test
+litecoin-qt_test
 
 # Resources cpp
 qrc_*.cpp
@@ -101,7 +101,7 @@ build
 *.gcno
 *.gcda
 /*.info
-test_bechorcoin.coverage/
+test_litecoin.coverage/
 total.coverage/
 coverage_percent.txt
 
